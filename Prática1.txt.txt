@@ -1,1 +1,0 @@
-Ola, bem vindo à prática de GIT.
